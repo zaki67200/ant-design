@@ -5969,7 +5969,7 @@ exports[`ConfigProvider components Collapse configProvider 1`] = `
       tabindex="0"
     >
       <i
-        class="anticon anticon-right arrow"
+        class="anticon anticon-right config-collapse-arrow"
       >
         <svg
           aria-hidden="true"
@@ -6005,7 +6005,7 @@ exports[`ConfigProvider components Collapse normal 1`] = `
       tabindex="0"
     >
       <i
-        class="anticon anticon-right arrow"
+        class="anticon anticon-right ant-collapse-arrow"
       >
         <svg
           aria-hidden="true"
@@ -6041,7 +6041,7 @@ exports[`ConfigProvider components Collapse prefixCls 1`] = `
       tabindex="0"
     >
       <i
-        class="anticon anticon-right arrow"
+        class="anticon anticon-right prefix-Collapse-arrow"
       >
         <svg
           aria-hidden="true"
